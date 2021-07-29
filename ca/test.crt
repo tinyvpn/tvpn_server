@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=California, L=Cupertino, O=DigiCert Inc., OU=www.digicert.com, CN=DigiCert
+        Validity
+            Not Before: Jun 14 01:50:17 2020 GMT
+            Not After : Jun 12 01:50:17 2030 GMT
+        Subject: C=US, ST=California, O=DigiCert Inc., OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA/emailAddress=tinyvpn9@protonmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b2:e7:51:16:68:1b:b5:01:05:c8:f2:2f:bc:f1:
+                    c7:28:85:cf:4d:08:15:74:28:81:8a:cf:a1:be:03:
+                    70:5b:d4:50:92:4b:72:05:b0:e0:6b:e7:bc:cf:79:
+                    15:66:65:ae:ae:f6:17:72:e5:4b:a3:2d:26:aa:d5:
+                    9d:62:26:37:94:39:b1:12:92:83:3f:24:07:ec:bc:
+                    66:57:3b:63:7e:d1:ab:a8:05:73:d5:f2:ed:f1:c6:
+                    99:8c:76:42:6c:18:7d:4d:2f:2f:8e:80:5e:56:23:
+                    a9:f1:53:40:69:96:9a:d1:2f:14:ab:d6:09:c9:45:
+                    35:86:21:3f:c2:15:f2:a6:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                63:B2:92:CA:99:02:94:CA:3C:8D:0C:49:4B:FD:44:85:B1:7B:86:17
+            X509v3 Authority Key Identifier: 
+                keyid:DB:10:01:18:AD:29:72:32:B7:A3:1D:C7:76:C8:6E:F3:09:50:2B:62
+
+    Signature Algorithm: sha256WithRSAEncryption
+         49:f9:85:d2:91:6c:9d:3e:26:3f:0d:1a:08:db:3b:7a:0c:05:
+         01:8e:6b:43:12:98:26:bb:15:a2:fd:32:54:21:58:ff:ea:9c:
+         49:1c:7b:f6:94:cb:eb:ff:5b:16:57:85:f9:87:77:dd:1d:1b:
+         a6:b5:2f:b5:f0:ae:37:3d:20:72:bf:74:ef:27:ae:8d:f3:8e:
+         bb:fd:9a:a0:f7:ea:b3:28:d5:6d:08:1b:7c:47:bf:ce:28:f8:
+         31:a9:ae:8d:f2:a9:8d:16:a1:6c:38:31:62:e4:26:1b:93:24:
+         22:e7:1d:e7:45:2c:c5:58:f4:16:28:33:6e:af:b6:c8:55:dd:
+         c8:6e
+-----BEGIN CERTIFICATE-----
+MIIDITCCAoqgAwIBAgIBATANBgkqhkiG9w0BAQsFADB8MQswCQYDVQQGEwJVUzET
+MBEGA1UECAwKQ2FsaWZvcm5pYTESMBAGA1UEBwwJQ3VwZXJ0aW5vMRYwFAYDVQQK
+DA1EaWdpQ2VydCBJbmMuMRkwFwYDVQQLDBB3d3cuZGlnaWNlcnQuY29tMREwDwYD
+VQQDDAhEaWdpQ2VydDAeFw0yMDA2MTQwMTUwMTdaFw0zMDA2MTIwMTUwMTdaMIGz
+MQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UECgwNRGln
+aUNlcnQgSW5jLjEZMBcGA1UECwwQd3d3LmRpZ2ljZXJ0LmNvbTE0MDIGA1UEAwwr
+RGlnaUNlcnQgU0hBMiBFeHRlbmRlZCBWYWxpZGF0aW9uIFNlcnZlciBDQTEmMCQG
+CSqGSIb3DQEJARYXdGlueXZwbjlAcHJvdG9ubWFpbC5jb20wgZ8wDQYJKoZIhvcN
+AQEBBQADgY0AMIGJAoGBALLnURZoG7UBBcjyL7zxxyiFz00IFXQogYrPob4DcFvU
+UJJLcgWw4GvnvM95FWZlrq72F3LlS6MtJqrVnWImN5Q5sRKSgz8kB+y8Zlc7Y37R
+q6gFc9Xy7fHGmYx2QmwYfU0vL46AXlYjqfFTQGmWmtEvFKvWCclFNYYhP8IV8qaX
+AgMBAAGjezB5MAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2Vu
+ZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBRjspLKmQKUyjyNDElL/USFsXuG
+FzAfBgNVHSMEGDAWgBTbEAEYrSlyMrejHcd2yG7zCVArYjANBgkqhkiG9w0BAQsF
+AAOBgQBJ+YXSkWydPiY/DRoI2zt6DAUBjmtDEpgmuxWi/TJUIVj/6pxJHHv2lMvr
+/1sWV4X5h3fdHRumtS+18K43PSByv3TvJ66N8467/Zqg9+qzKNVtCBt8R7/OKPgx
+qa6N8qmNFqFsODFi5CYbkyQi5x3nRSzFWPQWKDNur7bIVd3Ibg==
+-----END CERTIFICATE-----

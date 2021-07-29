@@ -1,0 +1,10 @@
+{
+"tun_root_ipv4_address_string":"126.24.0.0",
+"default_network_eth_device":"eno16777984",
+"log_level":0,
+"protocols":"xtcp.51212.http.10014.ssl.14433.xudp.61212.dns.61213",
+"obfu":1,
+"obfu_first_four":1,
+"web_server":"192.168.50.218",
+"listen_ip":"192.168.50.218"
+}
